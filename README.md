@@ -22,8 +22,7 @@ This repository contains scanned copies of my professional and academic certific
 | Certificate of Participation – DSA Mastermind                                                     | [View](https://github.com/sneha20056/Certificates-/blob/main/certificate%20of%20participation%20in%20dsa%20master-mind.jpg) |
 | Certificate of Accomplishment – Geek Tank                                                         | [View](https://github.com/sneha20056/Certificates-/blob/main/certificate%20of%20ACCOMPLISHMENT%20(GEEK%20TANK).jpg) |
 | French Quiz Participation Certificate                                                             | [View](https://github.com/sneha20056/Certificates-/blob/main/FRENCH%20QUIZ%20PARTICIPATION%20.jpg) |
-
-| Snowflake Certificate                                                             | [View](https://github.com/sneha20056/Certificates-/blob/main/snowflake%20certificateeee.jpg) |
+| Snowflake Certificate                                                                              | [View](https://github.com/sneha20056/Certificates-/blob/main/snowflake%20certificateeee.jpg) |
 
 
 
